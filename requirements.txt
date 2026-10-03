@@ -1,0 +1,5 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+openai>=1.30
+python-dotenv>=1.0
